@@ -229,7 +229,7 @@ promptcraft-ai/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/promptcraft-ai.git
+git clone https://github.com/sajansaju20/promptcraft-ai.git
 cd promptcraft-ai
 ```
 
