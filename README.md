@@ -512,8 +512,8 @@ BE Computer Science Engineering
 Interested in:
 
 * Generative AI
-* AI/ML
-* Cybersecurity
+* Cloud Computing
+* DevOps
 * Prompt Engineering
 * AI Security
 
