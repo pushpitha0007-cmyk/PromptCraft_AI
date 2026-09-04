@@ -229,7 +229,7 @@ promptcraft-ai/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sajansaju20/promptcraft-ai.git
+git clone https://github.com/pushpitha0007-cmfy/promptcraft-ai.git
 cd promptcraft-ai
 ```
 
@@ -505,9 +505,9 @@ Never place API keys, passwords, tokens, or other secrets directly inside user-a
 
 ## 👨‍💻 Author
 
-**SAJAN S**
+**PUSHPITHA K**
 
-BE Computer Science Engineering — Cyber Security
+BE Computer Science Engineering 
 
 Interested in:
 
